@@ -1,0 +1,7 @@
+h1. Photoshop script to increment a text value and save for Web
+
+h2. Usage
+
+0. Modify your export path in increment_and_save.js so that it saves your PNG images correctly.
+1. Open a Photoshop file that contains a text layer as the first document layer.
+2. Go in File > Scripts > Browse, and choose increment_and_save.js.
